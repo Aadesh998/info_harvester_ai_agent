@@ -9,3 +9,7 @@ Info Harvester AI is a data processing and analysis tool that leverages Streamli
 * Web Scraping: Search the web using SerpAPI and extract relevant information.
 * AI-Powered Information Extraction: Utilize Llama-based models for natural language processing and specific data extraction.
 * Downloadable Reports: Export results as a CSV file for further use.
+
+## Project Structure
+
+InfoHarvesterAI/ │ ├── app.py # Main Streamlit application ├── data_upload.py # Module for CSV and Google Sheet data upload ├── llmChat.py # AI model integration and prompt handling ├── webScrap.py # Web scraping and search functions ├── requirements.txt # Dependencies for the project ├── .env # Environment variables └── README.md # Documentation (this file)
