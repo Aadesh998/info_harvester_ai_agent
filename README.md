@@ -74,3 +74,9 @@ streamlit run main.py
    
 ### Contributing
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
+
+## Output Video
+
+https://github.com/user-attachments/assets/8a9e8e38-fae9-4bc4-bee5-af62bf43abcf
+
+
