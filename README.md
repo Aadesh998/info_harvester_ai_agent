@@ -27,3 +27,50 @@ Info Harvester AI is a data processing and analysis tool that leverages Streamli
    ```
    git clone https://github.com/Aadesh998/info_harvester_ai_agent.git
    ```
+2. Set up a virtual environment:
+   ```
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows, use venv\Scripts\activate
+   ```
+3. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+4. Set up environment variables:
+   * Create a .env file in the root directory.
+   * Add the following keys:
+   ```
+   GROQ_API_KEY=your_groq_api_key
+   SERPAPI_KEY=your_serpapi_key
+   ```
+
+### Running the Application
+Run the Streamlit app locally:
+```
+streamlit run main.py
+```
+
+### Usage Guide
+1. Select Data Source:
+   Upload a CSV file or connect to a Google Sheet.
+2. Select Column:
+   Choose the column to analyze.
+3. Enter Query:
+   Input a query to extract specific information from web-scraped data.
+4. View and Download Results:
+   Preview the extracted insights and download them as a CSV file.
+
+### Third-Party Tools & APIs
+1. Streamlit: For creating the interactive web application.
+2. LangChain: For AI-based natural language processing and information extraction.
+3. groq: For AI model fast infrence.
+4. SerpAPI: For Google search results and web scraping.
+5. Pandas: For data manipulation and analysis.
+   
+### Future Enhancements
+1. Add more data sources (e.g., databases, APIs).
+2. Integrate additional AI models for better data insights.
+3. Improve error handling and logging.
+   
+### Contributing
+Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
