@@ -1,0 +1,7 @@
+streamlit
+serpapi
+pandas
+st-gsheets-connection
+langchain-groq
+langchain-community
+python-dotenv
