@@ -12,4 +12,5 @@ Info Harvester AI is a data processing and analysis tool that leverages Streamli
 
 ## Project Structure
 
-InfoHarvesterAI/ │ ├── app.py # Main Streamlit application ├── data_upload.py # Module for CSV and Google Sheet data upload ├── llmChat.py # AI model integration and prompt handling ├── webScrap.py # Web scraping and search functions ├── requirements.txt # Dependencies for the project ├── .env # Environment variables └── README.md # Documentation (this file)
+![image](https://github.com/user-attachments/assets/56d6b559-f526-4d70-8518-5087fb916357)
+
