@@ -12,5 +12,18 @@ Info Harvester AI is a data processing and analysis tool that leverages Streamli
 
 ## Project Structure
 
-![image](https://github.com/user-attachments/assets/56d6b559-f526-4d70-8518-5087fb916357)
+![image](https://github.com/user-attachments/assets/c0ae1258-340e-43d4-b869-422f76e41800)
 
+## Setup Instructions
+### Prerequisites
+* Python 3.8 or higher
+* A Google account to access Google Sheets
+* API keys for:
+  * Groq for LangChain model integration
+  * SerpAPI for web search
+ 
+### Installation
+1. Clone the repository:
+   ```
+  git clone https://github.com/Aadesh998/info_harvester_ai_agent.git
+  ```
