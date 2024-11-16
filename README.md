@@ -24,6 +24,4 @@ Info Harvester AI is a data processing and analysis tool that leverages Streamli
  
 ### Installation
 1. Clone the repository:
-   ```
-  git clone https://github.com/Aadesh998/info_harvester_ai_agent.git
-  ```
+   ```git clone https://github.com/Aadesh998/info_harvester_ai_agent.git```
